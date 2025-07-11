@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Muskan Rathore</h1>
-<h3 align="center">B.Tech IT Student | Open Source Enthusiast | Learner</h3>
+<h3 align="center">B.Tech IT Student | Open Source Enthusiast | Tech Explorer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Muskan Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Git, GitHub, Open Source, and React Projects**
+- 🌱 I’m currently learning **Git, GitHub, React, and Open Source Contributions**
 
-- 🔭 I’m currently building **Polyfile** – an image and PDF converter
+- 🔭 I’m building **Polyfile** – an image and PDF conversion tool with drag & drop UI
 
-- 💬 Ask me about **C++, Java, DSA, or Frontend Development**
+- 💬 Ask me about **DSA in C++, Java, React, or Tailwind CSS**
 
-- 📫 Reach me at: **muskanrathore.official@gmail.com**
+- 📫 Email me at: **muskanrathoregwl@gmail.com**
 
-- ⚡ Fun fact: *I love exploring cybersecurity tools like BeEF and Masscan 🔐*
+- 🧩 Practicing coding on [LeetCode](https://leetcode.com/u/rathoremuskan/)
+
+- ⚡ Fun fact: *I love mixing frontend creativity with cybersecurity tools like BeEF & Masscan!*
 
 ---
 
@@ -40,13 +42,16 @@
 
 ---
 
-### 🌐 Let’s Connect
+### 🌐 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muskan-rathore123">
+  <a href="https://www.linkedin.com/in/muskan-rathore-342b43261/">
     <img src="https://img.shields.io/badge/LinkedIn-Muskan%20Rathore-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:muskanrathore.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-muskanrathore.official-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:muskanrathoregwl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-muskanrathoregwl-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://leetcode.com/u/rathoremuskan/">
+    <img src="https://img.shields.io/badge/LeetCode-Muskan-yellow?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
