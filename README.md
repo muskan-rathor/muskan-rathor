@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://github.com/muskan-rathor/muskan-rathor/blob/main/Download%20premium%20vector%20of%20Stream%20of%20binary%20code%20design%20vector%20by%20Aew%20about%20background,%20texture,%20light,%20neon,%20and%20hacker%201015308.jpg?raw=true" 
-       alt="Muskan Banner" 
-       style="max-width: 100%; height: 200px; object-fit: cover;" />
+  <img src="https://github.com/muskan-rathor/muskan-rathor/blob/main/Download%20premium%20vector%20of%20Stream%20of%20binary%20code%20design%20vector%20by%20Aew%20about%20background,%20texture,%20light,%20neon,%20and%20hacker%201015308.jpg?raw=true"
+       alt="Muskan Banner"
+       style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Muskan Rathore</h1>
