@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muskan Rathore</h1>
 <h3 align="center">B.Tech IT Student | Open Source Enthusiast | Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/tJ3z7wG.gif" width="250" alt="Muskan Coding" style="margin-top: 20px;" />
-</p>
+<img align="right" src="https://i.imgur.com/tJ3z7wG.gif" width="250" alt="Muskan Coding" style="margin-left: 20px;" />
+
 
 
 - 🌱 I’m currently learning **Git, GitHub, React, and Open Source Contributions**
