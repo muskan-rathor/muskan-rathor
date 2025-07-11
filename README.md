@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muskan Rathore</h1>
 <h3 align="center">B.Tech IT Student | Open Source Enthusiast | Tech Explorer</h3>
 
-<img align="right" src="https://i.imgur.com/tJ3z7wG.gif" width="250" alt="Muskan Coding" style="margin-left: 20px;" />
+<img align="right" src=" https://i.pinimg.com/originals/b6/16/15/b61615b9f1b9192c3bba5e91a4432adb.gif" width="250" alt="Muskan Coding" style="margin-left: 20px;" />
 
 
 
