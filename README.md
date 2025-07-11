@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muskan Rathore</h1>
 <h3 align="center">B.Tech IT Student | Open Source Enthusiast | Tech Explorer</h3>
 
-<img align="right" src=" https://i.pinimg.com/originals/b6/16/15/b61615b9f1b9192c3bba5e91a4432adb.gif" width="250" alt="Muskan Coding" style="margin-left: 20px;" />
-
-
+---
 
 - 🌱 I’m currently learning **Git, GitHub, React, and Open Source Contributions**
 
@@ -18,6 +16,8 @@
 - ⚡ Fun fact: *I love mixing frontend creativity with cybersecurity tools like BeEF & Masscan!*
 
 ---
+
+<img align="right" src="https://github.com/muskan-rathor/muskan-rathor/blob/main/Download%20premium%20vector%20of%20Stream%20of%20binary%20code%20design%20vector%20by%20Aew%20about%20background,%20texture,%20light,%20neon,%20and%20hacker%201015308.jpg?raw=true" width="250" alt="Muskan Coding">
 
 ### 🛠️ Languages and Tools
 
